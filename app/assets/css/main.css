@@ -1,0 +1,35 @@
+.btn {
+    border: 1px solid #de0134;
+    padding: 5px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #de0134;
+    font-family: 'Abril Fatface', 'cursive';
+    font-weight: 400;
+}
+
+.btn:hover {
+    background: #de0134;
+    color: #fff;
+    
+}
+
+.primary-btn {
+    background: #4f8d2f;
+    color: #fff;
+    border-color: #4f8d2f;
+}
+.primary-btn:hover {
+    background: #FFF;
+    color: #4f8d2f;
+}
+
+.secondary-btn {
+    background: #5ac5d1;
+    color: white;
+    border-color: #5ac5d1;
+}
+.secondary-btn:hover {
+    background: #FFF;
+    color: #5ac5d1;
+}
