@@ -4,8 +4,6 @@
     border-radius: 10px;
     text-decoration: none;
     color: #de0134;
-    font-family: 'Abril Fatface', 'cursive';
-    font-weight: 400;
 }
 
 .btn:hover {
@@ -32,4 +30,37 @@
 .secondary-btn:hover {
     background: #FFF;
     color: #5ac5d1;
+}
+h1 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #575856;
+}
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+}
+h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+h5 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    color: #5e5f5d;
+
 }
